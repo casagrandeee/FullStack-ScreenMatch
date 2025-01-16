@@ -38,11 +38,12 @@ ScreenMatch is a web application developed using Java and Spring Boot. It allows
    ```
 3. Run the application:
    ```sh
-   mvn spring-boot:run
+    mvn spring-boot:run
   ```
 ```
 <hr></hr>
-# PT-BR ScreenMatch
+
+## PT-BR ScreenMatch
 
 ScreenMatch é uma aplicação web desenvolvida em Java e Spring Boot. Ela permite que os usuários naveguem e gerenciem uma coleção de séries de TV, incluindo detalhes sobre episódios, avaliações e categorias.  
 
